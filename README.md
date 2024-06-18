@@ -1,5 +1,5 @@
 # Project-archive
-All the project that I have done.
+All the projects that I have done.  
 以下为对应项目：  
 p1-stats: 编写了一个统计类，实现一些可用于数据分析的函数如：计算数据标准差，百分位数，平均值，中位数等   
 p2-cv:使用Seam Carving算法构建图像大小和分辨率的调整程序，使用了C 中的指针、数组、字符串、流、IO 和抽象数据类型  
